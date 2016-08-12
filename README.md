@@ -1,0 +1,1 @@
+# fun-auto-host-name-generator
